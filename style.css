@@ -327,14 +327,14 @@ a:hover {
     margin-bottom: 10px;
 }
 
-.social-links a > ion-icon {
-    margin: 0 10px;
-    font-size: 1rem; 
-    color: #cfbdbd;
-    transition: 0.3s;
+.icon a  {
+    display: inline-block;
+    margin-right: 10px;
+    color: #333;
+    text-decoration: none;
 }
 
-.social-links a:hover {
+.icon a:hover {
     color: #00abf0;
 }
 
