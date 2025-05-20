@@ -270,7 +270,6 @@ a:hover {
 .service {
     padding: 60px 5%;
     background-color: #0b2124;
-    color:#3f5c52;
     text-align: center;
 }
 
@@ -385,7 +384,8 @@ a:hover {
 
 /* Footer */
 .footer {
-    background: rgba(11, 78, 11, 0.753);
+   /* background: rgba(11, 78, 11, 0.753);*/
+    background-color: #0b2124;
     text-align: center;
     padding: 15px 0;
 }
@@ -421,7 +421,7 @@ a:hover {
     
 }
 .footer a{
-    color: #ededed;
+    /*color: #ededed; */
     font-size: 0.8rem;
     transition: 0.3s;
     padding: 0;
@@ -434,15 +434,15 @@ a:hover {
     justify-content: center;
     gap: 20px;
     align-items: center;
-    color: #ededed;
+    flex-wrap: wrap;
 }
 .homeNav a{
     color: #ededed;
-    font-size: 0.8rem;
+  /*  font-size: 0.8rem;*/
     font-weight: 100;
     transition: 0.3s;
     padding: 0;
-    gap: 1px;
+    gap: 20px;
 }
 
 
