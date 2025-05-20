@@ -438,17 +438,17 @@ a:hover {
 }
 .homeNav a{
     color: #ededed;
-  /*  font-size: 0.8rem;*/
-    font-weight: 100;
+    font-size: 0.9rem;
+    font-weight: 500;
     transition: 0.3s;
     padding: 0;
-    gap: 20px;
+    gap: 1px;
 }
 
 
-/*div{
+div{
     border: 1px solid black;
-}*/
+}
   
 
 /* Media Queries */
