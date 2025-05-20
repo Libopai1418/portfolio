@@ -421,7 +421,7 @@ a:hover {
     
 }
 .footer a{
-    /*color: #ededed; */
+    color: #ededed; 
     font-size: 0.8rem;
     transition: 0.3s;
     padding: 0;
