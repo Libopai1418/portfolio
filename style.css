@@ -266,6 +266,16 @@ a:hover {
     text-align: justify;
 }
 
+/*service style start*/
+.services {
+    padding: 60px 5%;
+    background: #0b2124;
+    color:#3f5c52;
+    text-align: center;
+}
+
+/*service style ends*/
+
 /* Contact Section */
 .contact {
     background-color: #1c5022;
